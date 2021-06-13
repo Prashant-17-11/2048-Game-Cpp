@@ -11,3 +11,5 @@ Suppperrr lengthy processs!!! But the very basic idea.
 
 Then I refered to this article on gfg contributed by Amit Mangal(https://www.linkedin.com/in/amit-mangal/) sir.
 link : https://www.geeksforgeeks.org/2048-game-in-python/
+
+The code was compiled and executed through Eclipse IDE.
